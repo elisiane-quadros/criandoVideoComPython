@@ -10,7 +10,7 @@ def load_images(folder, valid_extensions):
       images.append(os.path.join(folder, fileName))
   return images  
 
-def create_video(images, output_file, frame_rate=1):
+def create_video(images, output_file, frame_rate=0.5):
   if not images:
     raise ValueError("Nenhuma imagem encontrada para criar vídeo.")
   
