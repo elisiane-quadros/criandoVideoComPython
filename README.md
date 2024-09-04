@@ -1,10 +1,6 @@
 # create-video-py
 
 
-https://github.com/user-attachments/assets/3af73564-2c22-4f7f-adec-3e51cb912d6d
-
-
-
 ## 💻 Sobre o projeto
 Este projeto consiste em criar um vídeo a partir de uma sequência de imagens utilizando Python e OpenCV. As imagens são lidas de um diretório específico, processadas e combinadas em um vídeo que é salvo localmente. Após a criação, o vídeo é exibido até que a tecla de espaço seja pressionada.
 ## ⚙️ Funcionalidades
